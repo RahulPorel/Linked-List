@@ -25,6 +25,3 @@ A head node is the first node in the list, a tail node is the last node in the l
 [ NODE(head) ] -> [ NODE ] -> [ NODE(tail) ] -> null
 
 for a more explaintion use this website which has plenty of diagram to understand what a linked list are why to use them or not in real world: [website](https://web.archive.org/web/20200217010131/http://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)
-# Linked-List
-# Linked-List
-# Linked-List
